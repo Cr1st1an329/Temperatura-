@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Rojo">#F80000</color>
+    <color name="Naranja">#FF5722</color>
+    <color name="Amarrillo">#FFEB3B</color>
+    <color name="Blanco">#FFFFFF</color>
+    <color name="Verde">#43C551</color>
+    <color name="Azulado">#00BCD4</color>
+    <color name="Azul">#3F62DC</color>
+    <color name="Purpura">#9C27B0</color>
+    <color name="Morado">#673AB7</color>
+</resources>
